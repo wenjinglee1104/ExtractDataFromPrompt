@@ -8,14 +8,14 @@ A Flask-based API service that enables natural language processing for token swa
 - **AI-Powered Recommendations**: Generates DEX suggestions and swap optimizations
 - **Web3 Ready**: Produces transaction payloads compatible with major Ethereum wallets
 
-## Tech Stack 🛠️
+## Tech Stack 
 - **Core AI**: DeepSeek-Chat model (API)
 - **Backend**: Python 3.10+, Flask
 - **NLP Processing**: Hybrid parser (LLM + regex)
 - **Web3 Integration**: Basic transaction payload builder
 - **APIs**: RESTful JSON API
 
-## Installation & Usage 🚀
+## Installation & Usage 
 
 ### Prerequisites
 - Python 3.10+
@@ -97,7 +97,7 @@ graph TD
 }
 ```
 
-## Extension Opportunities 🧩
+## Extension Opportunities 
 
 ### Core Improvements
 1. **Enhanced Parser**
